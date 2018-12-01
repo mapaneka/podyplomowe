@@ -38,7 +38,7 @@ start += (start*+0.12);
         System.out.println( "Trzecie zadanie" );
         System.out.println( "" );
 
-int liczba = 20453;
+int liczba = 253;
 
 //DecimalFormat df = new DecimalFormat("F:#");
    //     System.out.println(df.format(liczba));
