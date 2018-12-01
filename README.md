@@ -1,7 +1,5 @@
 # podyplomowe
 Repozytorium studiów podyplomowych 
-Dodano Opis Projektu
 
-Test zmian z GitHub
-
-
+Tu jest wersja pliku stworzona w branchu develop
+!
